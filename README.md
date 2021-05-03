@@ -1,4 +1,4 @@
-# Sparsity-based-Image-super-resolution
+# Sparsity-based-image-super-resolution
 we have proposed a novel method to resize input images through compressed sensing recovery. We have used super resolution in framework of compressed sensing, that is, conversion of a low resolution image to a high resolution image using compressed recovery technique.
 
 
